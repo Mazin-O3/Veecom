@@ -145,7 +145,7 @@ The DMA Controller is designed for fast and efficient `memory-to-IO` data transf
 uBASIC <a name="ubasic"></a>
 ---
 
-[Veecom uBASIC](https://github.com/MazinCE/Veecom-uBasic) is a derivative of the [uBASIC](https://dunkels.com/adam/ubasic/) interpreter originally authored by Adam Dunkels. This version of uBASIC has been improved to be made fully interactive, with the incorporation of additional commands and performance optimizations.
+Veecom uBASIC is a derivative of the [uBASIC](https://dunkels.com/adam/ubasic/) interpreter originally authored by Adam Dunkels. This version of uBASIC has been improved to be made fully interactive, with the incorporation of additional commands and performance optimizations.
 
 <figure align="center">
     <img src="images/ubasic.svg", alt="dmac">
@@ -175,8 +175,6 @@ Veecom uBASIC added support for multiple new commands, these include `RUN`, `LIS
     <img src="images/timer_example.svg", alt="timer_example">
 </figure>
 <br/>
-
-For more details, please visit [Veecom uBASIC](https://github.com/MazinCE/Veecom-uBasic) repository. 
 
 <br/>
 
